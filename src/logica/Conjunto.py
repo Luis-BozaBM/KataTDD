@@ -5,4 +5,7 @@ class Conjunto:
     def promedio(self):
 
         #Se cambio False por None (rojo -> verde)
-        return None
+        if len(self.__conjunto) == 1:
+            return(self.__conjunto[0])
+        else:
+            return None
