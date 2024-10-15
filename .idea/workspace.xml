@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e27a859-8465-4916-b733-8c8553ce0f39" name="Changes" comment="Caso 2: calcular promedio de un conjunto vacio (rojo)">
-      <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
+    <list default="true" id="1e27a859-8465-4916-b733-8c8553ce0f39" name="Changes" comment="Caso 2: calcular promedio de un conjunto vacio (verde)">
+      <change beforePath="$PROJECT_DIR$/tests/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestConjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729027438877</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Caso 2: calcular promedio de un conjunto vacio (verde)">
+      <option name="closed" value="true" />
+      <created>1729027523699</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027523699</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -140,6 +148,7 @@
     <MESSAGE value="Caso 1: calcular promedio de un conjunto vacio" />
     <MESSAGE value="Caso 1: calcular promedio de un conjunto vacio (verde)" />
     <MESSAGE value="Caso 2: calcular promedio de un conjunto vacio (rojo)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso 2: calcular promedio de un conjunto vacio (rojo)" />
+    <MESSAGE value="Caso 2: calcular promedio de un conjunto vacio (verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 2: calcular promedio de un conjunto vacio (verde)" />
   </component>
 </project>
