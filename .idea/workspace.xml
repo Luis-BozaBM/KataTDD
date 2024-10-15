@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1e27a859-8465-4916-b733-8c8553ce0f39" name="Changes" comment="Caso 1: calcular promedio de un conjunto vacio">
+    <list default="true" id="1e27a859-8465-4916-b733-8c8553ce0f39" name="Changes" comment="Caso 1: calcular promedio de un conjunto vacio (verde)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/logica/Conjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/logica/Conjunto.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/TestConjunto.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/TestConjunto.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +35,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests in TestConjunto.py.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests in TestConjunto.py">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="KataTDD" />
       <option name="ENV_FILES" value="" />
@@ -62,6 +65,26 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests in TestConjunto.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="KataTDD" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/TestConjunto.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in TestConjunto.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -95,12 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1729027105643</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Caso 1: calcular promedio de un conjunto vacio (verde)">
+      <option name="closed" value="true" />
+      <created>1729027238301</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729027238301</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creacion commit KataTDD" />
     <MESSAGE value="Caso 1: calcular promedio de un conjunto vacio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Caso 1: calcular promedio de un conjunto vacio" />
+    <MESSAGE value="Caso 1: calcular promedio de un conjunto vacio (verde)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Caso 1: calcular promedio de un conjunto vacio (verde)" />
   </component>
 </project>
